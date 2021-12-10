@@ -12,4 +12,4 @@ This project covers the following concepts.
 
 # Snapshots
 
-![This is an image]()
+<img src="./TrackBit/appdemo.png" width="300">
